@@ -1,24 +1,26 @@
-## Student Result Analyzer - Java Project:
+# Movie Ticket Booking System - Java Project:
 
-A console-based Java program to analyze student results.
+A console-based Java program to book and manage movie tickets in a theater.
 
 ## Features:
 
-- Enter student names and marks
-- Assign grades (A, B, C, D, F)
-- Generate rank list (sorted by marks)
-- Display topper, lowest scorer, top 3 students
-- Calculate class average and pass percentage
-- Search for a student by name
+- View seat layout (5x5) with available and booked seats
+- Book a seat with automatic ticket pricing
+- Cancel a booked seat
+- Show seat summary (total, booked, available)
+- User-friendly console interface
 
 ## Skills/Concepts Used:
 
 - Java
-- Arrays
-- Bubble Sort
-- Loops & Conditionals
+- 2D Arrays
+- Loops & Conditional Statements
+- Basic Booking System Logic
 
 ## How to Run:
 
-1. Clone the repository
-2. Run "StudentResultAnalyzer.java" in any Java IDE
+1. Clone the repository.
+2. Run "MovieTicketBooking.java" in any Java IDE.
+
+
+
