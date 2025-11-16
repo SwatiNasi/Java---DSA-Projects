@@ -1,23 +1,26 @@
-# Inventory Management System - Java Project:
+# Movie Ticket Booking System - Java Project:
 
-A console-based Java program to manage inventory for products in a store.
+A console-based Java program to book and manage movie tickets in a theater.
 
 ## Features:
 
-- Add, search, update, and delete products
-- Sort products by price or quantity
-- Display all products with low-stock warning
-- Show inventory summary including total stock value, most expensive and cheapest products
+- View seat layout (5x5) with available and booked seats
+- Book a seat with automatic ticket pricing
+- Cancel a booked seat
+- Show seat summary (total, booked, available)
+- User-friendly console interface
 
 ## Skills/Concepts Used:
 
 - Java
-- Arrays
+- 2D Arrays
 - Loops & Conditional Statements
-- Sorting Algorithms (Bubble Sort)
-- Basic Inventory Management Logic
+- Basic Booking System Logic
 
 ## How to Run:
 
-1. Clone the repository
-2. Run `InventoryManagement.java` in any Java IDE 
+1. Clone the repository.
+2. Run "MovieTicketBooking.java" in any Java IDE.
+
+
+
